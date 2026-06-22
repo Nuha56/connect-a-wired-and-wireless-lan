@@ -19,7 +19,7 @@ During the deployment, I successfully diagnosed and resolved a critical media co
 ### 🎥 Project Walkthrough Video
 *Below is the video demonstration explaining the network topology, the troubleshooting process, and testing the end-to-end connection:*
 
-[▶️ Click Here to Watch the Lab Explanation Video](Lap.demo.mp4)
+(https://github.com/Nuha56/connect-a-wired-and-wireless-lan/blob/main/Lab.demo.mp4)
 
 ---
 
